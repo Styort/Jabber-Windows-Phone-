@@ -1,0 +1,90 @@
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\Bin\Debug\Jabber.dll
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\Bin\Debug\Jabber.pdb
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\Bin\Debug\AppManifest.xaml
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\Bin\Debug\Jabber_Debug_AnyCPU.xap
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\obj\Debug\App.g.cs
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\obj\Debug\MainPage.g.cs
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\obj\Debug\Jabber.g.resources
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\obj\Debug\Jabber.Resources.AppResources.resources
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\obj\Debug\Jabber.csproj.GenerateResource.Cache
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\obj\Debug\Jabber.dll
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\obj\Debug\Jabber.pdb
+c:\users\виктор\documents\visual studio 2013\Projects\Jabber\Jabber\obj\Debug\XapCacheFile.xml
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\obj\Debug\App.g.cs
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\Bin\Debug\Jabber.dll
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\Bin\Debug\Jabber.pdb
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\Bin\Debug\AppManifest.xaml
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\Bin\Debug\Jabber_Debug_AnyCPU.xap
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\Bin\Debug\MatriX.dll
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\Bin\Debug\MatriX.xml
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\obj\Debug\MainPage.g.cs
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\obj\Debug\Jabber.g.resources
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\obj\Debug\Jabber.Resources.AppResources.resources
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\obj\Debug\Jabber.csproj.GenerateResource.Cache
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\obj\Debug\Jabber.dll
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\obj\Debug\Jabber.pdb
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\obj\Debug\XapCacheFile.xml
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\obj\Debug\Jabber.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\Bin\Debug\ContactListSettings\StatusImage\online.png
+C:\Users\Виктор\Documents\Visual Studio 2015\Projects\Jabber\Jabber\Bin\Debug\Microsoft.Phone.Controls.dll
+G:\Download\Jabber\Jabber\Bin\Debug\Assets\ApplicationIcon.png
+G:\Download\Jabber\Jabber\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+G:\Download\Jabber\Jabber\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+G:\Download\Jabber\Jabber\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+G:\Download\Jabber\Jabber\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+G:\Download\Jabber\Jabber\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+G:\Download\Jabber\Jabber\Bin\Debug\ContactListSettings\StatusImage\online.png
+G:\Download\Jabber\Jabber\Bin\Debug\Jabber.dll
+G:\Download\Jabber\Jabber\Bin\Debug\Jabber.pdb
+G:\Download\Jabber\Jabber\Bin\Debug\AppManifest.xaml
+G:\Download\Jabber\Jabber\Bin\Debug\Properties\WMAppManifest.xml
+G:\Download\Jabber\Jabber\Bin\Debug\Jabber_Debug_AnyCPU.xap
+G:\Download\Jabber\Jabber\Bin\Debug\MatriX.dll
+G:\Download\Jabber\Jabber\Bin\Debug\Microsoft.Phone.Controls.dll
+G:\Download\Jabber\Jabber\Bin\Debug\MatriX.xml
+G:\Download\Jabber\Jabber\obj\Debug\App.g.cs
+G:\Download\Jabber\Jabber\obj\Debug\MainPage.g.cs
+G:\Download\Jabber\Jabber\obj\Debug\Jabber.g.resources
+G:\Download\Jabber\Jabber\obj\Debug\Jabber.Resources.AppResources.resources
+G:\Download\Jabber\Jabber\obj\Debug\Jabber.csproj.GenerateResource.Cache
+G:\Download\Jabber\Jabber\obj\Debug\Jabber.dll
+G:\Download\Jabber\Jabber\obj\Debug\Jabber.pdb
+G:\Download\Jabber\Jabber\obj\Debug\XapCacheFile.xml
+G:\Download\Jabber\Jabber\obj\Debug\Jabber.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\ContactListSettings\StatusImage\online.png
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\Jabber.dll
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\Jabber.pdb
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\AppManifest.xaml
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\Jabber_Debug_AnyCPU.xap
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\MatriX.xml
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\obj\Debug\Jabber.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\obj\Debug\App.g.cs
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\obj\Debug\MainPage.g.cs
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\obj\Debug\Jabber.g.resources
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\obj\Debug\Jabber.Resources.AppResources.resources
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\obj\Debug\Jabber.csproj.GenerateResource.Cache
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\obj\Debug\Jabber.dll
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\obj\Debug\Jabber.pdb
+C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\obj\Debug\XapCacheFile.xml

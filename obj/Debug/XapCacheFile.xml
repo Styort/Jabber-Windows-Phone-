@@ -1,0 +1,23 @@
+﻿<xapCache source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\Jabber_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="03.11.2015 14:42:57">
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\obj\Debug\Jabber.dll" archivePath="Jabber.dll" lastWriteTime="03.11.2015 14:42:56" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="25.11.2014 20:51:02" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="25.11.2014 20:51:02" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="25.11.2014 20:51:02" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="25.11.2014 20:51:02" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="25.11.2014 20:51:02" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\ContactListSettings\StatusImage\extendedAway.png" archivePath="ContactListSettings\StatusImage\extendedAway.png" lastWriteTime="15.12.2014 8:52:41" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\ContactListSettings\StatusImage\doNotDisturb.png" archivePath="ContactListSettings\StatusImage\doNotDisturb.png" lastWriteTime="15.12.2014 8:51:22" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\ContactListSettings\StatusImage\offline.png" archivePath="ContactListSettings\StatusImage\offline.png" lastWriteTime="15.12.2014 8:44:05" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\ContactListSettings\StatusImage\away.png" archivePath="ContactListSettings\StatusImage\away.png" lastWriteTime="15.12.2014 8:43:45" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\ContactListSettings\StatusImage\chat.png" archivePath="ContactListSettings\StatusImage\chat.png" lastWriteTime="15.12.2014 8:43:31" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\ContactListSettings\StatusImage\online.png" archivePath="ContactListSettings\StatusImage\online.png" lastWriteTime="15.12.2014 8:43:10" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Image\history.png" archivePath="Image\history.png" lastWriteTime="29.12.2014 2:00:09" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Image\Send.png" archivePath="Image\Send.png" lastWriteTime="18.12.2014 23:42:20" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="30.12.2014 18:04:42" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="25.11.2014 20:51:02" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="25.11.2014 20:51:02" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\MatriX.dll" archivePath="MatriX.dll" lastWriteTime="22.12.2012 13:55:16" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="01.01.2013 17:57:00" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\MatriX.xml" archivePath="MatriX.xml" lastWriteTime="22.12.2012 13:55:16" />
+  <file source="C:\Users\Виктор\Downloads\JabberSinev\Jabber\Jabber\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="30.12.2014 18:04:43" />
+</xapCache>
