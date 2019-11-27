@@ -14,11 +14,11 @@ namespace Jabber
 
         private ConnectionModel() { }
         public XmppClient myXmppClient = new XmppClient();
-        private string _password = "02241995";
+        private string _password = "";
         public string Password { get { return _password; } set { _password = value; OnPC("Password"); } }
-        private string _login ="styort02";
+        private string _login ="";
         public string Login { get { return _login; } set { _login = value; OnPC("Login"); } }
-        private string _server="jabber.mipt.ru";
+        private string _server="";
         public string Server { get { return _server; } set { _server = value; OnPC("Server"); } }
         private bool _isEnabledAuthButton = true; //активность кнопки авторизация
         public bool AuthButtonIsEnabled { get { return _isEnabledAuthButton; } set { _isEnabledAuthButton = value; OnPC("AuthButtonIsEnabled"); } }
